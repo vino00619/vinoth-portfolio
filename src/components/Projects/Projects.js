@@ -10,8 +10,8 @@ const projectsDemo = [{
   description: 'React.js - Node.js Full-stack map pinning travel app using React hooks, Mapbox, Express, and MongoDB. In this application, you can pin your location and share your reviews with other users.',
   tags: ['mongoDB', 'Express', 'React', 'Node'],
   source: "",
-  visit: "",
-  image: Travel,
+  visit: "https://superb-speculoos-2f9d9c.netlify.app/",
+  image: "Travel",
   id: 0
 },
 {
@@ -64,7 +64,7 @@ const Projects = () => (
             </TagList>
           </div>
           <UtilityList>
-            <ExternalLinks href={visit}>Code</ExternalLinks>
+            <ExternalLinks href={visit}>Visit</ExternalLinks>
             <ExternalLinks href={source}>Source</ExternalLinks>
           </UtilityList>
         </BlogCard>
