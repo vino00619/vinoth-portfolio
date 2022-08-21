@@ -5,9 +5,9 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { projects } from '../../constants/constants';
 
 const projectsDemo = [{
-  title: 'Project 1',
-  description: 'This is a brief explanation about the project',
-  tags: ['mongoDB', 'Express', 'React', 'Node'],
+  title: ' 1',
+  description: 't',
+  tags: ['moDB', 'Exss', '', 'Noe'],
   source: "",
   visit: "",
   image: "",
