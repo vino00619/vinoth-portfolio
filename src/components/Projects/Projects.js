@@ -15,25 +15,25 @@ const projectsDemo = [{
   id: 0
 },
 {
-  title: 'Project 2',
+  title: 'Project x',
   description: 'This is a brief explanation about the project',
   tags: ['mongoDB', 'Express', 'React', 'Node'],
   source: "",
   visit: "",
-  image: "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg",
+  image: "",
   id: 1
 },
 {
-  title: 'Project 3',
+  title: 'Project x',
   description: 'This is a brief explanation about the project',
   tags: ['mongoDB', 'Express', 'React', 'Node'],
   source: "",
   visit: "",
-  image: "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg",
+  image: "",
   id: 2
 },
 {
-  title: 'Project 4',
+  title: 'Project x',
   description: 'This is a brief explanation about the project',
   tags: ['mongoDB', 'Express', 'React', 'Node'],
   source: "",
