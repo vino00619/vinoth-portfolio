@@ -11,7 +11,7 @@ const projectsDemo = [{
   tags: ['mongoDB', 'Express', 'React', 'Node'],
   source: "",
   visit: "",
-  image: "Travel_Stories",
+  image: Travel_Stories,
   id: 0
 },
 {
