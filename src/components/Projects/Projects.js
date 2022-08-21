@@ -3,7 +3,7 @@ import React from 'react';
 import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from './ProjectsStyles';
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
 import { projects } from '../../constants/constants';
-import * as url from '../../../public/images/Travel_Stories.PNG';
+import Travel_Stories from '../../../public/images/Travel_Stories.PNG';
 
 const projectsDemo = [{
   title: 'Travel Stories',
