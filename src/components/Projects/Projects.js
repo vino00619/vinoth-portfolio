@@ -3,7 +3,7 @@ import React from 'react';
 import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from './ProjectsStyles';
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
 import { projects } from '../../constants/constants';
-import Travel from '../../../public/images/Travel_Stories.PNG';
+import Travel_Stories from '../../../public/images/Travel_Stories.PNG';
 
 const projectsDemo = [{
   title: 'Travel Stories',
@@ -11,7 +11,7 @@ const projectsDemo = [{
   tags: ['mongoDB', 'Express', 'React', 'Node'],
   source: "",
   visit: "https://superb-speculoos-2f9d9c.netlify.app/",
-  image: "Travel",
+  image: Travel_Stories,
   id: 0
 },
 {
