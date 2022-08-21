@@ -5,34 +5,34 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { projects } from '../../constants/constants';
 
 const projectsDemo = [{
-  title: 'Travel Stories App',
-  description: 'React.js - Node.js Full-stack map pinning travel app using React hooks, Mapbox, Express, and MongoDB. In this application, you can pin your location and share your reviews with other users.',
+  title: 'Project 1',
+  description: 'This is a brief explanation about the project',
   tags: ['mongoDB', 'Express', 'React', 'Node'],
   source: "",
   visit: "",
-  image: Travel_Stories,
+  image: "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg",
   id: 0
 },
 {
-  title: 'Project x',
+  title: 'Project 2',
   description: 'This is a brief explanation about the project',
   tags: ['mongoDB', 'Express', 'React', 'Node'],
   source: "",
   visit: "",
-  image: "",
+  image: "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg",
   id: 1
 },
 {
-  title: 'Project x',
+  title: 'Project 3',
   description: 'This is a brief explanation about the project',
   tags: ['mongoDB', 'Express', 'React', 'Node'],
   source: "",
   visit: "",
-  image: "",
+  image: "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg",
   id: 2
 },
 {
-  title: 'Project x',
+  title: 'Project 4',
   description: 'This is a brief explanation about the project',
   tags: ['mongoDB', 'Express', 'React', 'Node'],
   source: "",
