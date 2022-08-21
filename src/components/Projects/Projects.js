@@ -3,14 +3,15 @@ import React from 'react';
 import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from './ProjectsStyles';
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
 import { projects } from '../../constants/constants';
+import * as url from '../../../public/images/Travel_Stories.PNG';
 
 const projectsDemo = [{
-  title: ' 1',
-  description: 't',
-  tags: ['moDB', 'Exss', '', 'Noe'],
+  title: 'Travel Stories',
+  description: 'React.js - Node.js Full-stack map pinning travel app using React hooks, Mapbox, Express, and MongoDB. In this application, you can pin your location and share your reviews with other users.',
+  tags: ['mongoDB', 'Express', 'React', 'Node'],
   source: "",
   visit: "",
-  image: "",
+  image: url,
   id: 0
 },
 {
