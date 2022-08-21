@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { text: 'Earned a certificate in Full Stack Web Development course in Udemy.'},
-  { text: 'hands on experience in WebGIS applications.', },
+  { text: 'Hands on experience in WebGIS applications.', },
 ];
 
 const Acomplishments = () => (
