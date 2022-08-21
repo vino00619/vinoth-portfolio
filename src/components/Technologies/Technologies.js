@@ -40,7 +40,6 @@ const Technologies = () =>  (
             VS code<br />
             Postman<br />
             Mongo DB Atlas<br />
-            Figma
           </ListParagraph>
         </ListContainer>
       </ListItem>
