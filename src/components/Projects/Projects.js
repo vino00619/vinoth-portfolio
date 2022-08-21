@@ -3,7 +3,7 @@ import React from 'react';
 import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from './ProjectsStyles';
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
 import { projects } from '../../constants/constants';
-import Travel_Stories from '../../../public/images/Travel_Stories.png'
+import * as Travel_Stories from '../../../public/images/Travel_Stories.png'
 
 const projectsDemo = [{
   title: 'Travel Stories App',
@@ -11,7 +11,7 @@ const projectsDemo = [{
   tags: ['mongoDB', 'Express', 'React', 'Node'],
   source: "",
   visit: "",
-  image: Travel_Stories,
+  image: "Travel_Stories",
   id: 0
 },
 {
