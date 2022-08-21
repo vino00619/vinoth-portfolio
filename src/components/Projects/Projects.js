@@ -11,7 +11,7 @@ const projectsDemo = [{
   tags: ['mongoDB', 'Express', 'React', 'Node'],
   source: "",
   visit: "https://superb-speculoos-2f9d9c.netlify.app/",
-  image: Travel_Stories,
+  image: "Travel_Stories",
   id: 0
 },
 {
