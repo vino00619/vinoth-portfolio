@@ -3,7 +3,7 @@ import React from 'react';
 import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from './ProjectsStyles';
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
 import { projects } from '../../constants/constants';
-import projects from '../../../public/images/projects.jpeg';
+
 
 const projectsDemo = [{
   title: 'Travel Stories',
@@ -11,36 +11,37 @@ const projectsDemo = [{
   tags: ['mongoDB', 'Express', 'React', 'Node'],
   source: "",
   visit: "https://superb-speculoos-2f9d9c.netlify.app/",
-  image: projects,
+  image: "",
   id: 0
 },
 {
   title: 'Login with OAUTH - Google, Facebook, Github',
-  description: 'This is a brief explanation about the project',
-  tags: ['mongoDB', 'Express', 'React', 'Node'],
+  description: 'React oAuth login authentication using Passport js. React, Node.js auth using Google, Facebook, and Github login buttons.',
+  tags: ['Passport', 'Express', 'React', 'Node'],
   source: "",
   visit: "https://unrivaled-axolotl-86c6ea.netlify.app/",
-  image: "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg",
+  image: "",
   id: 1
 },
-{
-  title: 'Project 3',
-  description: 'This is a brief explanation about the project',
-  tags: ['mongoDB', 'Express', 'React', 'Node'],
-  source: "",
-  visit: "",
-  image: "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg",
-  id: 2
-},
-{
-  title: 'Project 4',
-  description: 'This is a brief explanation about the project',
-  tags: ['mongoDB', 'Express', 'React', 'Node'],
-  source: "",
-  visit: "",
-  image: "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg",
-  id: 3
-}];
+// {
+//   title: 'Project 3',
+//   description: 'This is a brief explanation about the project',
+//   tags: ['mongoDB', 'Express', 'React', 'Node'],
+//   source: "",
+//   visit: "",
+//   image: "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg",
+//   id: 2
+// },
+// {
+//   title: 'Project 4',
+//   description: 'This is a brief explanation about the project',
+//   tags: ['mongoDB', 'Express', 'React', 'Node'],
+//   source: "",
+//   visit: "",
+//   image: "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg",
+//   id: 3
+// }
+                     ];
 
 const Projects = () => (
   <Section nopadding id="projects">
