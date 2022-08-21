@@ -15,11 +15,11 @@ const projectsDemo = [{
   id: 0
 },
 {
-  title: 'Project 2',
+  title: 'Login with OAUTH - Google, Facebook, Github',
   description: 'This is a brief explanation about the project',
   tags: ['mongoDB', 'Express', 'React', 'Node'],
   source: "",
-  visit: "",
+  visit: "https://unrivaled-axolotl-86c6ea.netlify.app/",
   image: "https://s3-ap-south-1.amazonaws.com/static.awfis.com/wp-content/uploads/2017/07/07184649/ProjectManagement.jpg",
   id: 1
 },
