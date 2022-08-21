@@ -5,8 +5,8 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { projects } from '../../constants/constants';
 
 const projectsDemo = [{
-  title: 'Project 1',
-  description: 'This is a brief explanation about the project',
+  title: 'Travel Stories App',
+  description: 'React.js - Node.js Full-stack map pinning travel app using React hooks, Mapbox, Express, and MongoDB. In this application, you can pin your location and share your reviews with other users.',
   tags: ['mongoDB', 'Express', 'React', 'Node'],
   source: "",
   visit: "",
