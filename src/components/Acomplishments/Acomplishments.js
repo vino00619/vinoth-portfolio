@@ -24,4 +24,4 @@ const Acomplishments = () => (
   </Section>
 );
 
-export default Acomplishments;
+//export default Acomplishments;
